@@ -24,7 +24,7 @@ A modern and responsive Tic Tac Toe game built using **HTML, CSS, and JavaScript
 ## 🚀 Live Demo
 
 **Play Here:**
-https:[https://satyamtiwari23.github.io/tic-tac-toe/]
+https:https://satyamtiwari23.github.io/tic-tac-toe/
 
 ## 📂 Project Structure
 
@@ -41,7 +41,7 @@ tic-tac-toe/
 1. Clone the repository
 
 ```bash
-git clone https://github.com/YOUR-USERNAME/tic-tac-toe.git
+git clone https://satyamtiwari23.github.io/tic-tac-toe/
 ```
 
 2. Open the project folder.
