@@ -24,7 +24,7 @@ A modern and responsive Tic Tac Toe game built using **HTML, CSS, and JavaScript
 ## 🚀 Live Demo
 
 **Play Here:**
-https://YOUR-USERNAME.github.io/tic-tac-toe/
+https:[//YOUR-USERNAME.github.io/tic-tac-toe/](https://satyamtiwari23.github.io/tic-tac-toe/)
 
 ## 📂 Project Structure
 
