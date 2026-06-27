@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+
+    <link rel="stylesheet" href="style.css">
+    <title>Tic Tac Toe|Game</title>
+</head>
+
+<body>
+    <header class="head">
+        <div class="msg-cont hidden">
+            <h1 id="msg"></h1>
+        </div>
+        <div class="draw-cont hidden">
+            <h1 id="draw">DRAW!</h1>
+        </div>
+        <h1>Tic Tac Toe</h1>
+        <h2 id="turn">Player O's Turn</h2>
+
+        <div class="scoreboard">
+
+            <span id="oScore">O : 0</span>
+
+            <span id="drawScore">Draw : 0</span>
+
+            <span id="xScore">X : 0</span>
+
+        </div>
+    </header>
+
+    <div class="container">
+        <button class="box"></button>
+        <button class="box"></button>
+        <button class="box"></button>
+        <button class="box"></button>
+        <button class="box"></button>
+        <button class="box"></button>
+        <button class="box"></button>
+        <button class="box"></button>
+        <button class="box"></button>
+    </div>
+    <div>
+        <div class="buttons">
+            <button id="reset">Reset Board</button>
+            <button id="reset-score">Reset Scores</button>
+        </div>
+        <div class=" newGame hidden">
+            <button id="new-game">New Game</button>
+        </div>
+    </div>
+    <footer>
+        Developed by Satyam Tiwari
+    </footer>
+    <script src="script.js"></script>
+</body>
+
+</html>
